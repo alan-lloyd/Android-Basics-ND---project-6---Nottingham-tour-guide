@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Nottingham Tour Guide</string>
+
+    <string name="going_out_at_night">Nottingham is known for good pubs, clubs, cinemas etc</string>
+    <string name="going_out_in_lace_market">Some of the best places are around the Lace Market:</string>
+    <string name="going_out_anoki_restaurant">Anoki Indian restaurant - an award winner</string>
+    <string name="going_out_anoki_restaurant_address">Barker Gate, Nottingham NG1 1JU; Tel: 0115 9483 888</string>
+    <string name="going_out_mandarin_restaurant">The Mandarin Chinese restaurant - serves great Dim Sum</string>
+    <string name="going_out_mandarin_restaurant_address">42 Belward St, Hockley Mill, Nottingham NG1 1JZ; Tel: 0115 950 9157</string>
+    <string name="going_out_theatre_royal">Theatre Royal, just up the hill from Market Square</string>
+    <string name="going_out_theatre_royal_address">Theatre Square, Nottingham NG1 5ND; Tel: 0115 989 5555</string>
+    <string name="going_out_top_chef">Top Chef take-away - great home delivered Chinese food</string>
+    <string name="going_out_top_chef_address">17 Manvers Street, Nottingham, NG2 4PB; Tel: 0115 950 6663</string>
+    <string name="going_out_broadway_cinema">Broadway Cinema - popular and foreign films</string>
+    <string name="going_out_broadway_cinema_address">14 Broad Street, Nottingham NG1 3AL; Tel: 0115 9526 611</string>
+
+    <string name="title_going_out">going out</string>
+    <string name="title_employers">business</string>
+    <string name="title_city_centre">city centre</string>
+    <string name="title_arboretum">park</string>
+
+    <string name="employers_title">Nottingham has a number of large employers.</string>
+    <string name="employers_descriptive_text">Some of the best are below:</string>
+    <string name="employers_boots_uk">Boots UK (chemists)</string>
+    <string name="employers_boots_uk_address">UK HQ at Nottingham, NG2 3AA</string>
+    <string name="employers_dvsa">Driver and Vehicle Standards Agency (driving and vehicle tests)</string>
+    <string name="employers_dvsa_address">Regional Office, 112 Upper Parliament Street, Nottingham NG1 6LP</string>
+    <string name="employers_siemens_uk">Siemens UK (industrial manafacturing)</string>
+    <string name="employers_siemens_uk_address">Operational Services,100 Woodyard Lane,Wollaton, Nottingham NG8 1GB</string>
+    <string name="employers_pendragon">Pendragon plc (car dealerships)</string>
+    <string name="employers_pendragon_address">2 Oakwood Court, Little Oak Drive, Annesley, Nottingham NG15 0DR</string>
+    <string name="employers_capital_one">Capital One (Europe) plc (credit cards)</string>
+    <string name="employers_capital_one_address">Trent House, Station St, Nottingham NG2 3HX</string>
+
+    <string name="city_centre_lace_market_1">Nottingham\'s old centre is the Lace Market. It no longer makes much lace, but those old factories have been renewed</string>
+    <string name="city_centre_lace_market_1_description">..as offices, flats, pubs.</string>
+    <string name="city_centre_lace_market_2">The Victorian era red-brick factories contain here</string>
+    <string name="city_centre_lace_market_2_description">a fashion college, insurance premises and lawyers offices.</string>
+    <string name="city_centre_lace_market_3">Round here are a couple of clubs,</string>
+    <string name="city_centre_lace_market_3_description">and restaurants (out of view, to the right).</string>
+
+    <string name="city_centre_lace_market_shops">Many Lace Market streets have all sorts of things to do.</string>
+    <string name="city_centre_lace_market_shops_description">This street has the renowned Broadway cinema, pubs and good restaurants.</string>
+
+    <string name="city_centre_lace_market_ristes_place_4">This street with old cobbled stones contains two IT businesses.</string>
+    <string name="city_centre_lace_market_ristes_place_4_description">Also my apartment (on the left), and the Anoki restaurant.</string>
+    <string name="city_centre_market_square">Down a short slope from the Lace Market is the old Market Square.</string>
+    <string name="city_centre_market_square_description">It is a popular venue for live bands and social events.</string>
+    <string name="city_centre_theatre_royal">One tram stop up from the Market Square is the grand-looking Theatre Royal. </string>
+    <string name="city_centre_theatre_royal_description">It tends to shows thrillers, and musicals</string>
+
+    <string name="arboretum_1_path">If you need a quiet afternoon to yourself, go to the Arboretum</string>
+    <string name="arboretum_1_path_description">Its a large park, near a tram stop, with private places to sit, and a restaurant.</string>
+    <string name="arboretum_2_pond">The pond is right by the main entrance.</string>
+    <string name="arboretum_2_pond_description">It has lots of ducks, interesting trees and an aviary.</string>
+    <string name="arboretum_3_scenic_view">The park has changing views, and much beauty.</string>
+    <string name="arboretum_3_scenic_view_description">This image shows part of the centre of the park, in early June.</string>
+    <string name="arboretum_4_bell_tower">The bell tower has Russian and Chinese scripts on the top, and canons taken by Nottinghamshire soldiers, from Crimea.</string>
+    <string name="arboretum_4_bell_tower_description">The canons are from the siege of Sevastopol in 1855.</string>
+    <string name="arboretum_5_chinese_bell">The bell was stolen from Guangzhou in 1848.</string>
+    <string name="arboretum_5_chinese_bell_description">It has significant spiritual importance (ringing it summons the attention of God)</string>
+
+</resources>
